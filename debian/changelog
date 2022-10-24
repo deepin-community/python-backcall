@@ -1,0 +1,35 @@
+python-backcall (0.2.0-2) unstable; urgency=medium
+
+  [ Debian Janitor ]
+  * Use correct machine-readable copyright file URI.
+  * Set upstream metadata fields: Bug-Database, Bug-Submit, Repository,
+    Repository-Browse.
+
+  [ Ondřej Nový ]
+  * d/control: Update Maintainer field with new Debian Python Team
+    contact address.
+  * d/control: Update Vcs-* fields with new Debian Python Team Salsa
+    layout.
+
+ -- Gordon Ball <gordon@chronitis.net>  Tue, 17 Aug 2021 17:54:21 +0000
+
+python-backcall (0.2.0-1) unstable; urgency=medium
+
+  * New upstream version 0.2.0
+  * d/control:
+       + Standards-Version: 4.5.0
+       + Debhelper compat level 13
+
+ -- Gordon Ball <gordon@chronitis.net>  Sun, 14 Jun 2020 11:20:06 +0000
+
+python-backcall (0.1.0-2) unstable; urgency=medium
+
+  * Source-only upload.
+
+ -- Gordon Ball <gordon@chronitis.net>  Tue, 31 Dec 2019 13:27:30 +0000
+
+python-backcall (0.1.0-1) unstable; urgency=medium
+
+  * Initial release. (Closes: #943892)
+
+ -- Gordon Ball <gordon@chronitis.net>  Sat, 28 Dec 2019 20:23:53 +0000

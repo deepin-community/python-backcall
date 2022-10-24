@@ -1,0 +1,8 @@
+backcall/_signatures.py
+-----------------------
+
+This file contains a backport of function signatures from the `inspect` module in python. The backport was prepared by Aaron Iles [1] and licensed Apache-2, based on code from cpython, licensed under the Python Software Foundation license.
+
+However, this code is only included for compatibility with python < 3.3, and since the package targets python3 only it will not be used, but is included to avoid the need to unnecessarily modify the upstream source.
+
+[1]: https://github.com/aliles/funcsigs/tree/0.3
